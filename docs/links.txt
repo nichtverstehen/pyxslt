@@ -1,0 +1,7 @@
+http://codespeak.net/lxml/performance.html
+http://www.biglist.com/lists/xsl-list/archives/200508/msg00229.html
+http://www.xmlsoft.org/XSLT/internals.html
+http://www.biglist.com/lists/xsl-list/archives/200209/msg00225.html
+http://xmlbench.sourceforge.net/
+http://www.ibm.com/developerworks/library/x-xslt2/
+http://www.fh-wedel.de/~si/HXmlToolbox/xslt/thesis.pdf
